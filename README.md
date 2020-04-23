@@ -5,5 +5,5 @@ To use this application
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
 
-npm run dev from root folder
+npm run dev (from root folder)
  
